@@ -4,3 +4,8 @@ version = "0.1.0"
 authors = ["Tim <tmulqueen@premiumbeat.com>"]
 
 [dependencies]
+
+
+[[bin]]
+name = "binme"
+path = "src/main.rs"
