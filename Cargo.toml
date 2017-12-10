@@ -1,0 +1,10 @@
+[package]
+name = "one"
+version = "0.1.0"
+authors = ["Tim <tmulqueen@premiumbeat.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "one"
+path = "one.rs"
